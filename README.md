@@ -1,0 +1,3 @@
+# The World on a Table — 21 November 2026
+
+This entry sums up the world news of Saturday, 21 November 2026 in a single image: the day's stories arranged as miniature dioramas on one exhibition table around a central stock-exchange board. The lead story is the global AI stock sell-off (S&P 500 -3.7%, Nikkei -5.1%, Hang Seng -3.8%), surrounded by the Russian missile strike on Kryvyi Rih, the ICJ ruling that Myanmar committed genocide against the Rohingya, the capture of cartel boss "El Chapo Isidro" in Guasave, Sinaloa, missiles hitting two tankers near the Strait of Hormuz, and the COP31 climate talks overrunning in Antalya. Running `main.py` copies the bundled `news.png` to `/output/entry.png`.
